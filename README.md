@@ -61,4 +61,3 @@ Font Awesome	Icons
 │    └── user testimonials
 └── README.md
 
-🚀 How to Run Locally
